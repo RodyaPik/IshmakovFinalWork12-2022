@@ -1,0 +1,15 @@
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\bin\Debug\net6.0\IshmakovFinalWork12-2022.exe
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\bin\Debug\net6.0\IshmakovFinalWork12-2022.deps.json
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\bin\Debug\net6.0\IshmakovFinalWork12-2022.runtimeconfig.json
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\bin\Debug\net6.0\IshmakovFinalWork12-2022.dll
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\bin\Debug\net6.0\IshmakovFinalWork12-2022.pdb
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\IshmakovFinalWork12-2022.csproj.AssemblyReference.cache
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\IshmakovFinalWork12-2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\IshmakovFinalWork12-2022.AssemblyInfoInputs.cache
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\IshmakovFinalWork12-2022.AssemblyInfo.cs
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\IshmakovFinalWork12-2022.csproj.CoreCompileInputs.cache
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\IshmakovFinalWork12-2022.dll
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\refint\IshmakovFinalWork12-2022.dll
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\IshmakovFinalWork12-2022.pdb
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\IshmakovFinalWork12-2022.genruntimeconfig.cache
+D:\GB\3. С#\IRI\IPR\FinalWork26.12.2022 г\IshmakovFinalWork12-2022\obj\Debug\net6.0\ref\IshmakovFinalWork12-2022.dll
